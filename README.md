@@ -1,10 +1,10 @@
-# Order Data Analytics Project
+# Orders Data Analytics Project
 
-This is an end-to-end data analytics project analyzing an order dataset sourced from Kaggle. The project involves data extraction, cleaning, transformation, and generating insights through SQL queries and Python analysis.
+This is an end-to-end data analytics project analyzing an orders dataset sourced from Kaggle. The project involves data extraction, cleaning, transformation, and generating insights through SQL queries and Python analysis.
 
 ## Problem Statement
 
-The objective of this project is to analyze order data and extract valuable insights to aid in decision-making. Key areas of analysis include:
+The objective of this project is to analyze orders data and extract valuable insights to aid in decision-making. Key areas of analysis include:
 
 1. Identifying the top 10 revenue-generating products.
 2. Comparing month-over-month growth for 2022 and 2023 sales (e.g., January 2022 vs. January 2023).
